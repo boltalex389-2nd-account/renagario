@@ -6,7 +6,11 @@
   "scripts": {
     "start": "gulp run"
   },
-  "author": "Alex Bolte",
+ "author": "Anthony Hengst",
+  "license": "GNU GPL3",
+  "contributors": [
+    "nepphhhh <nephdev@gmail.com>"
+  ],
   "dependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
